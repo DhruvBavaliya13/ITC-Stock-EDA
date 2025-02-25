@@ -42,7 +42,7 @@ jupyter notebook Stock_analysis.ipynb
 Feel free to fork this repo and submit a pull request if you have improvements or additional features!  
 
 ## 📬 Contact  
-For any queries, reach out via drbavaliya13@gmail.com(mailto:drbavaliya13@gmail.com).  
+For any queries, reach out via drbavaliya13@gmail.com.
 
 ---
 
